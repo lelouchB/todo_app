@@ -4,7 +4,7 @@ function Header() {
   return (
     <header style={headerStyle}>
       <h1>Todo List</h1>
-      <Link to="/index" style={linkStyle}>
+      <Link to="/home" style={linkStyle}>
         Home
       </Link>
       {"  "}|{"  "}
