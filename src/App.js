@@ -62,9 +62,9 @@ export default class App extends Component {
         <div>
           <div className="container">
             <Header />
-            <Route path="/">
-              render=
-              {props => (
+            <Route
+              path="/"
+              render={props => (
                 <React.Fragment>
                   <AddTodo addTodo={this.addTodo} />
                   <Todos
@@ -74,8 +74,7 @@ export default class App extends Component {
                   />
                 </React.Fragment>
               )}
-              >
-            </Route>
+            ></Route>
             <Route path="/about" component={About} />
           </div>
         </div>
