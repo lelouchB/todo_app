@@ -63,8 +63,7 @@ export default class App extends Component {
           <div className="container">
             <Header />
             <Route
-              exact
-              path="/home"
+              path="/"
               render={props => (
                 <React.Fragment>
                   <AddTodo addTodo={this.addTodo} />
