@@ -1,4 +1,4 @@
-# ToDo List App 
+# ToDo List App  [![BCH compliance](https://bettercodehub.com/edge/badge/lelouchB/todo_app?branch=master)](https://bettercodehub.com/)
 ## Made with Reactjs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
