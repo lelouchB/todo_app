@@ -33,5 +33,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://lelouchb.github.io/todo_app/"
+  "homepage": "https://lelouchb.github.io/todo_app/",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
