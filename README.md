@@ -1,4 +1,4 @@
-# ToDo List App ![](https://github.com/lelouchB/todo_app/workflows/Node%20CI/badge.svg) [![Build Status](https://travis-ci.com/lelouchB/todo_app.svg?branch=master)](https://travis-ci.com/lelouchB/todo_app)  [![BCH compliance](https://bettercodehub.com/edge/badge/lelouchB/todo_app?branch=master)](https://bettercodehub.com/)
+# ToDo List App ![](https://github.com/lelouchB/todo_app/workflows/Node%20CI/badge.svg) [![Build Status](https://travis-ci.com/lelouchB/todo_app.svg?branch=master)](https://travis-ci.com/lelouchB/todo_app)  [![BCH compliance](https://bettercodehub.com/edge/badge/lelouchB/todo_app?branch=master)](https://bettercodehub.com/) [![CodeFactor](https://www.codefactor.io/repository/github/lelouchb/todo_app/badge)](https://www.codefactor.io/repository/github/lelouchb/todo_app)
 ## Made with Reactjs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
