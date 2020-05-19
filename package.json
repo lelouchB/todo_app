@@ -2,6 +2,7 @@
   "name": "todo_app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lelouchb.github.io/todo_app/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
@@ -32,7 +33,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://lelouchb.github.io/todo_app/",
+  }
   "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
